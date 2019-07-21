@@ -1,0 +1,5 @@
+word
+dog
+tree
+zombie
+pick

@@ -1,0 +1,3 @@
+<noun> <noun> <noun> <noun>
+If I was a <adjective> <noun> I could <verb>. 
+Who says a <adjective> <noun> has to be <adjective>?
